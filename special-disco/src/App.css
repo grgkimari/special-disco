@@ -92,8 +92,7 @@ body{
 }
 
 .powerbtn{
-  /* background-color: yellow; */
-  
+   
   margin: 10px auto;
   grid-area: pw;
   width: 80px;
@@ -103,8 +102,6 @@ body{
   flex-wrap: wrap;
   justify-content: space-evenly;
   border-radius: 15px;
-  /* border-bottom-left-radius: 15px;
-  border-bottom-right-radius: 15px; */
 }
 
 .powerbtn p{

@@ -37,6 +37,9 @@ const keyDownHandler = (event) => {
 document.addEventListener('keydown', keyDownHandler)
 
 function triggerAudio(event){
+  if(window.getComputedStyle(document.getElementById('switch')).flexDirection == "row"){
+    return
+  }
   switch (event.target.id){
     case 'q':
       document.getElementById("display").innerHTML = "Heater 1"

@@ -95,15 +95,15 @@ function App() {
   return (
     <div className="App" id="drum-machine">
       <div id="display"></div>
-      <button className="drum-pad" id="q" onClick={triggerAudio}>Q<audio id="Q" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3" preload="auto">Q</audio></button>
-      <button className="drum-pad" id="w" onClick={triggerAudio}>W<audio id="W" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3" preload="auto">W</audio></button>
-      <button className="drum-pad" id="e" onClick={triggerAudio}>E<audio id="E" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3" preload="auto">E</audio></button>
-      <button className="drum-pad" id="a" onClick={triggerAudio}>A<audio id="A" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3" preload="auto">A</audio></button>
-      <button className="drum-pad" id="s" onClick={triggerAudio}>S<audio id="S" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3" preload="auto">S</audio></button>
-      <button className="drum-pad" id="d" onClick={triggerAudio}>D<audio id="D" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3" preload="auto">D</audio></button>
-      <button className="drum-pad" id="z" onClick={triggerAudio}>Z<audio id="Z" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3" preload="auto">Z</audio></button>
-      <button className="drum-pad" id="x" onClick={triggerAudio}>X<audio id="X" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3" preload="auto">X</audio></button>
-      <button className="drum-pad" id="c" onClick={triggerAudio}>C<audio id="C" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3" preload="auto">C</audio></button>
+      <button className="drum-pad" id="q" onClick={triggerAudio}>Q<audio id="Q" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3" >Q</audio></button>
+      <button className="drum-pad" id="w" onClick={triggerAudio}>W<audio id="W" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3" >W</audio></button>
+      <button className="drum-pad" id="e" onClick={triggerAudio}>E<audio id="E" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3" >E</audio></button>
+      <button className="drum-pad" id="a" onClick={triggerAudio}>A<audio id="A" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3" >A</audio></button>
+      <button className="drum-pad" id="s" onClick={triggerAudio}>S<audio id="S" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3" >S</audio></button>
+      <button className="drum-pad" id="d" onClick={triggerAudio}>D<audio id="D" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3" >D</audio></button>
+      <button className="drum-pad" id="z" onClick={triggerAudio}>Z<audio id="Z" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3" >Z</audio></button>
+      <button className="drum-pad" id="x" onClick={triggerAudio}>X<audio id="X" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3" >X</audio></button>
+      <button className="drum-pad" id="c" onClick={triggerAudio}>C<audio id="C" className='clip' src="https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3" >C</audio></button>
       <div className="powerbtn">
         <p>Power</p>
         <div id="switch" onClick={toggleBtn}>

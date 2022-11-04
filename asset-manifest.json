@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/special-disco/static/css/main.46cfbeff.css",
-    "main.js": "/github.io/special-disco/static/js/main.eba1a546.js",
+    "main.js": "/github.io/special-disco/static/js/main.077b9b05.js",
     "static/media/RP4_KICK_1.mp3": "/github.io/special-disco/static/media/RP4_KICK_1.72881f4bf80d341da208.mp3",
     "static/media/Heater-1.mp3": "/github.io/special-disco/static/media/Heater-1.cb8d95b6caf027812d3b.mp3",
     "static/media/Heater-2.mp3": "/github.io/special-disco/static/media/Heater-2.4ed25e5b07da91b794d7.mp3",
@@ -13,10 +13,10 @@
     "static/media/Cev_H2.mp3": "/github.io/special-disco/static/media/Cev_H2.0b159bd307a31937b138.mp3",
     "index.html": "/github.io/special-disco/index.html",
     "main.46cfbeff.css.map": "/github.io/special-disco/static/css/main.46cfbeff.css.map",
-    "main.eba1a546.js.map": "/github.io/special-disco/static/js/main.eba1a546.js.map"
+    "main.077b9b05.js.map": "/github.io/special-disco/static/js/main.077b9b05.js.map"
   },
   "entrypoints": [
     "static/css/main.46cfbeff.css",
-    "static/js/main.eba1a546.js"
+    "static/js/main.077b9b05.js"
   ]
 }

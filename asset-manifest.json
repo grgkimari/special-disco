@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/special-disco/static/css/main.46cfbeff.css",
-    "main.js": "/github.io/special-disco/static/js/main.e4c7d17a.js",
-    "static/media/RP4_KICK_1.mp3": "/github.io/special-disco/static/media/RP4_KICK_1.72881f4bf80d341da208.mp3",
-    "static/media/Heater-1.mp3": "/github.io/special-disco/static/media/Heater-1.cb8d95b6caf027812d3b.mp3",
-    "static/media/Heater-2.mp3": "/github.io/special-disco/static/media/Heater-2.4ed25e5b07da91b794d7.mp3",
-    "static/media/Heater-3.mp3": "/github.io/special-disco/static/media/Heater-3.4c4d3fd017dfed721765.mp3",
-    "static/media/Heater-4.mp3": "/github.io/special-disco/static/media/Heater-4.0c29815eb40bbe7d4d7b.mp3",
-    "static/media/Dsc_Oh.mp3": "/github.io/special-disco/static/media/Dsc_Oh.5f33c02936f6ec6f8199.mp3",
-    "static/media/Heater-6.mp3": "/github.io/special-disco/static/media/Heater-6.faf5d12a1a4a7ffacf09.mp3",
-    "static/media/Kick_n_Hat.mp3": "/github.io/special-disco/static/media/Kick_n_Hat.6dc44dc15fca60d9d594.mp3",
-    "static/media/Cev_H2.mp3": "/github.io/special-disco/static/media/Cev_H2.0b159bd307a31937b138.mp3",
-    "index.html": "/github.io/special-disco/index.html",
-    "main.46cfbeff.css.map": "/github.io/special-disco/static/css/main.46cfbeff.css.map",
-    "main.e4c7d17a.js.map": "/github.io/special-disco/static/js/main.e4c7d17a.js.map"
+    "main.css": "/special-disco/static/css/main.46cfbeff.css",
+    "main.js": "/special-disco/static/js/main.44c9c7ba.js",
+    "static/media/RP4_KICK_1.mp3": "/special-disco/static/media/RP4_KICK_1.72881f4bf80d341da208.mp3",
+    "static/media/Heater-1.mp3": "/special-disco/static/media/Heater-1.cb8d95b6caf027812d3b.mp3",
+    "static/media/Heater-2.mp3": "/special-disco/static/media/Heater-2.4ed25e5b07da91b794d7.mp3",
+    "static/media/Heater-3.mp3": "/special-disco/static/media/Heater-3.4c4d3fd017dfed721765.mp3",
+    "static/media/Heater-4.mp3": "/special-disco/static/media/Heater-4.0c29815eb40bbe7d4d7b.mp3",
+    "static/media/Dsc_Oh.mp3": "/special-disco/static/media/Dsc_Oh.5f33c02936f6ec6f8199.mp3",
+    "static/media/Heater-6.mp3": "/special-disco/static/media/Heater-6.faf5d12a1a4a7ffacf09.mp3",
+    "static/media/Kick_n_Hat.mp3": "/special-disco/static/media/Kick_n_Hat.6dc44dc15fca60d9d594.mp3",
+    "static/media/Cev_H2.mp3": "/special-disco/static/media/Cev_H2.0b159bd307a31937b138.mp3",
+    "index.html": "/special-disco/index.html",
+    "main.46cfbeff.css.map": "/special-disco/static/css/main.46cfbeff.css.map",
+    "main.44c9c7ba.js.map": "/special-disco/static/js/main.44c9c7ba.js.map"
   },
   "entrypoints": [
     "static/css/main.46cfbeff.css",
-    "static/js/main.e4c7d17a.js"
+    "static/js/main.44c9c7ba.js"
   ]
 }
